@@ -21,7 +21,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Iwerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=dracula)
+![Iwerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=owleyes62&show_icons=true&theme=dracula)
 
 ---
 

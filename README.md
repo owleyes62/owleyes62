@@ -20,8 +20,9 @@
 
 ---
 
-### 📈 GitHub Stats
-![Iwerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=owleyes62&show_icons=true&theme=dracula)
+### 📈 GitHub Stats 
+![Iwerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=owleyes62&show_icons=true&theme=dracula)                          ![Descrição da imagem](https://pin.it/5zTMeoS1h)
+
 
 ---
 
